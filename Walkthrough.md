@@ -13,7 +13,7 @@ My domain model:
 
 * When the Maker visits the '/Chitter' path, their browser sends a request to a controller we built.
 
-* When the controller gets the request, it asks the Peep mclass to .post a message.
+* When the controller gets the request, it asks the Peep class to .post a message.
 
 * The Peep class goes and gets the peeps, and gives back all the peeps to the controller.
 
