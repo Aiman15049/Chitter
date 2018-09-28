@@ -18,3 +18,11 @@ My domain model:
 * The Peep class goes and gets the peeps, and gives back all the peeps to the controller.
 
 * The controller renders the peeps to a webpage, which it sends as a response to the user(Maker)
+
+
+
+* So we will need:
+   
+     - A Controller
+     - A Peep class
+     - A Peep view
