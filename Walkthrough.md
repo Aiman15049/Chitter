@@ -1,0 +1,21 @@
+# Walkthrough - Chitter Challenge
+
+
+
+
+User Story 1:
+
+<a href="https://imgur.com/24dC8ED"><img src="https://i.imgur.com/24dC8ED.png" title="source: imgur.com" /></a>
+
+My domain model:
+
+
+<a href="https://imgur.com/FfRISYn"><img src="https://i.imgur.com/FfRISYn.png" title="source: imgur.com" /></a>
+
+* When the Maker visits the '/Chitter' path, their browser sends a request to a controller we built.
+
+* When the controller gets the request, it gives the
+
+* The Peep class goes and gets the peeps, and gives back all the peeps in an array to the controller.
+
+* The controller renders the array of peeps to a webpage, which it sends as a response to the user(Maker)
