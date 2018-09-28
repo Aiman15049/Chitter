@@ -9,8 +9,7 @@ User Story 1:
 
 My domain model:
 
-
-<a href="https://imgur.com/FfRISYn"><img src="https://i.imgur.com/FfRISYn.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Hk95JQf"><img src="https://i.imgur.com/Hk95JQf.png" title="source: imgur.com" /></a>
 
 * When the Maker visits the '/Chitter' path, their browser sends a request to a controller we built.
 
