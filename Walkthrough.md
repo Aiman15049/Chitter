@@ -13,8 +13,8 @@ My domain model:
 
 * When the Maker visits the '/Chitter' path, their browser sends a request to a controller we built.
 
-* When the controller gets the request, it gives the
+* When the controller gets the request, it asks the Peep mclass to .post a message.
 
-* The Peep class goes and gets the peeps, and gives back all the peeps in an array to the controller.
+* The Peep class goes and gets the peeps, and gives back all the peeps to the controller.
 
-* The controller renders the array of peeps to a webpage, which it sends as a response to the user(Maker)
+* The controller renders the peeps to a webpage, which it sends as a response to the user(Maker)
